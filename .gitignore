@@ -1,0 +1,8 @@
+.vscode/
+.settings/
+target/
+debug.log
+doc/
+.idea/
+.classpath
+.project
