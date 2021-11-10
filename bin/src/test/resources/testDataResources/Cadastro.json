@@ -1,0 +1,15 @@
+{
+	"fieldCustumerName": "Teste Sicredi",
+	"fieldContactLastName": "Teste",
+	"fieldContactFirtstName": "Keren",
+	"fieldPhone": "51 9999-9999",
+	"fieldAddressLine1": "Av Assis Brasil, 3970",
+	"fieldAddressLine2": "Torre D",
+	"fieldCity": "Porto Alegre",
+	"fieldState": "RS",
+	"fieldPostalConde" : "91000-000",
+	"fieldContry": "Brasil",
+	"fieldSalesRepEmployeeNumber": "51 9999-9998",
+	"fieldCredilimit": "200",
+	"fieldDeleted": "not"
+}
